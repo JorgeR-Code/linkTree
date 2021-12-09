@@ -7,11 +7,7 @@ import {SpeedDialModule} from 'primeng/speeddial';
 
 @NgModule({
   declarations: [],
-  imports: [
-    CommonModule,
-    ButtonModule
-  ],
-  exports:[
+   exports:[
     ButtonModule,
     SpeedDialModule
   ]
