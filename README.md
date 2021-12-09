@@ -25,6 +25,13 @@ Users should be able to:
 - View information about the user.
 - The card must have links to social networks.
 
+
+Estimated development time: 2 hrs.
+Real development time: 4hrs.
+
+Estimated build time: 25 seg.
+Real time of build: 29 seg.
+
 ### Figma
 
 ![](./screenshots/figma.PNG)
